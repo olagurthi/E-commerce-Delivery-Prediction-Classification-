@@ -139,23 +139,6 @@ The notebook is organized into 4 clearly commented sections:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-### For Phase 2 (coming soon)
-```bash
-pip install xgboost scikit-learn
-```
-
-### Run the notebook
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-delivery-prediction.git
-cd ecommerce-delivery-prediction
-jupyter notebook phase1_eda_preprocessing.ipynb
-```
-
-> **Note:** Place the dataset CSV in the same directory as the notebook, or update the `pd.read_csv()` path in Cell 2.
-
----
-
 ## 🚀 Phase 2 — Coming Next
 
 Phase 2 will implement and compare three classifiers using the same preprocessed data:
