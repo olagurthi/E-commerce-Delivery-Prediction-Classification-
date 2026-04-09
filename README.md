@@ -135,14 +135,6 @@ The notebook is organized into 4 clearly commented sections:
 
 ---
 
-## ⚙️ Setup & Installation
-
-### Prerequisites
-- Python 3.10+
-- Jupyter Notebook or JupyterLab
-
-### Install dependencies
-
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
@@ -193,18 +185,6 @@ Evaluation will include: Accuracy · F1-macro · Precision · Recall · ROC-AUC 
 Dataset licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Code in this repository is available under the MIT License.
 
----
-
-## 🤖 AI Usage Statement
-
-This project used AI assistance (Claude by Anthropic) for:
-- Structuring the Jupyter notebook layout and comments
-- Suggesting feature engineering ideas
-- Generating initial visualization code scaffolding
-
-All analysis, interpretation, and conclusions were reviewed and validated by the student team.
-
----
 
 <p align="center">
   <em>Built as part of a Machine Learning course project · 2025</em>
