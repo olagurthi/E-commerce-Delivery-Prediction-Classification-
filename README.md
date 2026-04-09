@@ -182,9 +182,9 @@ Evaluation will include: Accuracy · F1-macro · Precision · Recall · ROC-AUC 
 
 | Name | Role |
 |------|------|
-| Student 1 | EDA & Visualizations |
-| Student 2 | Preprocessing & Feature Engineering |
-| Student 3 | Documentation & Presentation |
+| Ola | EDA & Visualizations |
+| Viola | Preprocessing & Feature Engineering |
+| Together | Documentation & Presentation |
 
 ---
 
