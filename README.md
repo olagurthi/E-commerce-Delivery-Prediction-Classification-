@@ -170,5 +170,5 @@ Code in this repository is available under the MIT License.
 
 
 <p align="center">
-  <em>Built as part of a Machine Learning course project · 2025</em>
+  <em>Built as part of a Machine Learning course project · April 2026</em>
 </p>
